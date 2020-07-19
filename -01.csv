@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+A8:6B:7C:92:5A:94, 2020-07-19 14:36:15, 2020-07-19 14:39:23,  1, 270, WPA2, CCMP, PSK, -33,     1769,     1100,   0.  0.  0.  0,  14, 360WiFi-925A94, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+38:A4:ED:B9:FF:91, 2020-07-19 14:36:17, 2020-07-19 14:39:20, -67,     1193, A8:6B:7C:92:5A:94,360WiFi-925A94
+
